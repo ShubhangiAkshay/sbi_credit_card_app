@@ -4,5 +4,7 @@ pipeline {
 
 agent any 
 stages{
+
+pipeline 1 - story 101
 }
 }
